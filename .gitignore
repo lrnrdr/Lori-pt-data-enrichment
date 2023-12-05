@@ -153,3 +153,4 @@ cython_debug/
 Data/title-akas-us-only.csv
 Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
+Data/Title_Basics.csv
